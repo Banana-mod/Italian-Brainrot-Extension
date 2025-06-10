@@ -1,2 +1,3 @@
 # Italian-Brainrot-Extension
-New extension
+Code : https://banana-mod.gihtub.io/Italian-Brainrot-Extension/italianbrainrot.js
+Icon : https://banana-mod.gihtub.io/Italian-Brainrot-Extension/itbr.svg
